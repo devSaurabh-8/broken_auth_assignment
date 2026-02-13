@@ -1,4 +1,4 @@
-require("dotenv").config(); // ✅ load env first
+require("dotenv").config(); 
 
 const express = require("express");
 const cookieParser = require("cookie-parser");
